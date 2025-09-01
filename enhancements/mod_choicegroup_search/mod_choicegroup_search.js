@@ -57,7 +57,7 @@
 
 	//Generate style URL from the URL of this script - assume the css file is in the same folder resource, in the same level as this script
 	const currentURL = new URL(document.currentScript.getAttribute("src"));
-    const styleURL = new URL("./mdc_choicegroup_choose_school.css", currentURL.toString());
+    const styleURL = new URL("./mod_choicegroup_search.css", currentURL.toString());
     preloadContent(styleURL, "style");
 
 	//This is the boilerplate HTML we will insert to the page

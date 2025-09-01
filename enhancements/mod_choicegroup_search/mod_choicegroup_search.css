@@ -43,3 +43,7 @@ form.tableform .tablecontainer {
 	overflow-y: scroll;
 	height: 25em;
 }
+
+.groupselector:has(#selectgroup) {
+	display: none;
+}
