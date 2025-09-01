@@ -1,0 +1,49 @@
+tr:has(input[type="radio"]:checked) {
+	background-color: #ffff00;
+}
+
+table.choicegroups td:has(input[type="radio"]) {
+	display: none;
+}
+table.choicegroups th.width10 {
+	display: none;
+}
+
+table.choicegroups th a.choicegroup-descriptiondisplay.btn {
+	display: none;
+}
+
+div.reportlink {
+	display: none;
+}
+
+
+table.choicegroups .width40 {
+    display: none;
+}
+
+#yourselection {
+	display: none;
+}
+
+#searchFormComponent {
+	width: 600px;
+	margin: 0 auto;
+}
+
+form.tableform+div.box.generalbox {
+	display: none;
+}
+
+form.tableform:has(a[href*='action=delchoicegroup']) #searchFormComponent, form.tableform:has(a[href*='action=delchoicegroup']) .tablecontainer {
+	display: none
+}
+
+form.tableform .tablecontainer {
+	overflow-y: scroll;
+	height: 25em;
+}
+
+.groupselector:has(#selectgroup) {
+	display: none;
+}
