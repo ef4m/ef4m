@@ -1,5 +1,9 @@
-## Hi there 👋
+## Welcome to ef4m 👋
+Ef4m is a framework created to describe a new way to efform learning on your favourite LMS!
 
+This repository will host all ef4m scripts contributed by the community.
+
+<a href="https://ef4m.dev/">For more information about ef4m, see our information hub at ef4m.dev</a>.
 <!--
 **ef4m/ef4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
