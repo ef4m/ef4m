@@ -1,5 +1,5 @@
 ## Welcome to ef4m 👋
-Ef4m is a framework created to describe a new way to efform learning on your favourite LMS!
+Ef4m is a framework created to describe a new way to efform modern learning experiences on your favourite LMS!
 
 This repository will host all ef4m scripts contributed by the community.
 
