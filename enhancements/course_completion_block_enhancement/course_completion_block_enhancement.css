@@ -1,0 +1,15 @@
+div.progressCompletionHolder {
+    display: inline-block;
+    width: 100%;
+    margin-left: 0.3rem;
+}
+
+.progressCompletionHolder .progress {
+    height: 1.5rem;
+    font-size: 1rem;
+    line-height: 1.2rem;
+}
+
+.progressCompletionHolder .progress .progress-bar {
+    min-width: 2rem;
+}
