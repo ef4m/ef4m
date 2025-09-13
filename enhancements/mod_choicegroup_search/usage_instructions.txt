@@ -1,0 +1,7 @@
+Visit the group choice activity. When the "Group choice" tab is visible, create
+a text block in the right-hand drawer that contains the following code: 
+<script src=”https://yourmoodle-site.domain/pluginfile.php/123456/mod_folder/content/0/mod_choicegroup_search.js”></script>
+where the URL in the src attribute is specific to your installation and 
+points to the js file within the ef4m repository folder. It is recommended 
+that you copy the URL of the js file from the folder directly and paste it 
+inside the src attribute above.
